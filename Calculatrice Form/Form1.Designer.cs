@@ -52,7 +52,6 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.aideToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.textBox3 = new System.Windows.Forms.TextBox();
-            this.label1 = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -316,22 +315,12 @@
             this.textBox3.Size = new System.Drawing.Size(100, 22);
             this.textBox3.TabIndex = 22;
             // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(59, 106);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(53, 17);
-            this.label1.TabIndex = 23;
-            this.label1.Text = "SALUT";
-            // 
             // Calculatrice
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlDark;
             this.ClientSize = new System.Drawing.Size(242, 392);
-            this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox3);
             this.Controls.Add(this.boutonc);
             this.Controls.Add(this.boutonvirgule);
@@ -392,7 +381,6 @@
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem aideToolStripMenuItem;
         private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.Label label1;
     }
 }
 
