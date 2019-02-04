@@ -1,0 +1,10 @@
+D:\Visual Studios Projects\Calculatrice Form\Calculatrice Form\bin\Debug\Calculatrice Form.exe.config
+D:\Visual Studios Projects\Calculatrice Form\Calculatrice Form\bin\Debug\Calculatrice Form.exe
+D:\Visual Studios Projects\Calculatrice Form\Calculatrice Form\bin\Debug\Calculatrice Form.pdb
+D:\Visual Studios Projects\Calculatrice Form\Calculatrice Form\obj\Debug\Calculatrice Form.csprojAssemblyReference.cache
+D:\Visual Studios Projects\Calculatrice Form\Calculatrice Form\obj\Debug\Calculatrice_Form.Calculatrice.resources
+D:\Visual Studios Projects\Calculatrice Form\Calculatrice Form\obj\Debug\Calculatrice_Form.Properties.Resources.resources
+D:\Visual Studios Projects\Calculatrice Form\Calculatrice Form\obj\Debug\Calculatrice Form.csproj.GenerateResource.cache
+D:\Visual Studios Projects\Calculatrice Form\Calculatrice Form\obj\Debug\Calculatrice Form.csproj.CoreCompileInputs.cache
+D:\Visual Studios Projects\Calculatrice Form\Calculatrice Form\obj\Debug\Calculatrice Form.exe
+D:\Visual Studios Projects\Calculatrice Form\Calculatrice Form\obj\Debug\Calculatrice Form.pdb
